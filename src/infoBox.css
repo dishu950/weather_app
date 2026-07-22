@@ -1,0 +1,13 @@
+.card{
+    display: inline-block;
+    align-items:center;
+    justify-content: center;
+   
+
+}   
+.css{
+    width: 400px;
+}
+body{
+    background-color: antiquewhite;
+}
